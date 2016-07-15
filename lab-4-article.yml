@@ -1,3 +1,5 @@
+spring:
+  profiles: default
 words: I,You,He,She,It
 eureka:
  client:
