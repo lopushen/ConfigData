@@ -1,5 +1,3 @@
----
-# Items that apply to ALL profiles:
 eureka:
   client:
     serviceUrl:
