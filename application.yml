@@ -37,10 +37,3 @@ spring:
     name: lab-4-adjective
 words: reasonable,leaky,suspicious,ordinary,unlikely
 
----
-spring:
-  profiles: 
-    active: noun
-  application:
-    name: lab-4-noun
-words: boat,book,vote,seat,backpack,partition,groundhog
