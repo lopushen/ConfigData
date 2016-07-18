@@ -10,7 +10,7 @@ spring:
   profiles: 
     active: subject
   application:
-    name: lab4-subject
+    name: lab-4-subject
 words: I,You,He,She,It
   
 ---
@@ -18,7 +18,7 @@ spring:
   profiles: 
     active: verb
   application:
-    name: lab4-verb
+    name: lab-4-verb
 words: ran,knew,had,saw,bought
 
 ---
@@ -26,7 +26,7 @@ spring:
   profiles: 
     active: article
   application:
-    name: lab4-article
+    name: lab-4-article
 words: a,the
 
 ---
@@ -34,7 +34,7 @@ spring:
   profiles: 
     active: adjective
   application:
-    name: lab4-adjective
+    name: lab-4-adjective
 words: reasonable,leaky,suspicious,ordinary,unlikely
 
 ---
@@ -42,6 +42,6 @@ spring:
   profiles: 
     active: noun
   application:
-    name: lab4-noun
+    name: lab-4-noun
 words: boat,book,vote,seat,backpack,partition,groundhog
   
