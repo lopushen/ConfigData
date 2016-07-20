@@ -44,4 +44,9 @@ spring:
   profiles: noun
   application:
     name: noun
+---
+spring:
+  profiles: sentence
+  application:
+    name: sentence
     
