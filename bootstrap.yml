@@ -63,4 +63,4 @@ spring:
   application:
     name: sentence
 wordConfig:
-  lucky-word: yet another change
+  lucky-word: and one more
