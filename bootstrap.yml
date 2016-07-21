@@ -63,4 +63,4 @@ spring:
   application:
     name: sentence
 wordConfig:
-  lucky-word: sentence22221_lucky_word
+  lucky-word: sentence11111_lucky_word
