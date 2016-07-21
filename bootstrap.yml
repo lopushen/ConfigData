@@ -12,8 +12,8 @@ eureka:
   instance:
     metadataMap:
       instanceId: ${spring.application.name}:${spring.application.instance_id:${random.value}}
-word-config:
-  lucky-word: kukukurlik
+wordConfig:
+  lucky-word: default_lucky_word
 
 # Depending on which profile is active, the application gives 
 # itself a different name when registering with Eureka
@@ -22,33 +22,45 @@ spring:
   profiles: subject
   application:
     name: subject
+wordConfig:
+  lucky-word: subject_lucky_word
   
 ---
 spring:
   profiles: verb
   application:
     name: verb
-
+wordConfig:
+  lucky-word: verb_lucky_word
+  
 ---
 spring:
   profiles: article
   application:
     name: article
-
+wordConfig:
+  lucky-word: article_lucky_word
+  
 ---
 spring:
   profiles: adjective
   application:
     name: adjective
-
+wordConfig:
+  lucky-word: adjective_lucky_word
+  
 ---
 spring:
   profiles: noun
   application:
     name: noun
+wordConfig:
+  lucky-word: noun_lucky_word
+  
 ---
 spring:
   profiles: sentence
   application:
     name: sentence
-    
+wordConfig:
+  lucky-word: sentence_lucky_word

@@ -37,8 +37,8 @@
       <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bootstrap.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            <state relative-caret-position="238">
+              <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -586,7 +586,7 @@
       <updated>1468831238324</updated>
       <workItem from="1468831239873" duration="5686000" />
       <workItem from="1468851704079" duration="8792000" />
-      <workItem from="1469087861269" duration="623000" />
+      <workItem from="1469087861269" duration="959000" />
     </task>
     <task id="LOCAL-00001" summary="added noun file">
       <created>1468831623167</created>
@@ -679,11 +679,18 @@
       <option name="project" value="LOCAL" />
       <updated>1469007016228</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="yet another change">
+      <created>1469101399934</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1469101399934</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15101000" />
+    <option name="totallyTimeSpent" value="15437000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="2" width="1932" height="1045" extended-state="0" />
@@ -782,8 +789,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        <state relative-caret-position="238">
+          <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
           <folding />
         </state>
       </provider>
